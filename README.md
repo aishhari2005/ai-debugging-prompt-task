@@ -9,7 +9,6 @@ Design a natural-language prompt that an AI assistant (like ChatGPT) will use to
 - Offer helpful suggestions or hints  
 - Avoid giving away the correct solution  
 
----
 
 Prompt Included
 
@@ -44,7 +43,7 @@ Analyze the Python code for bugs, identify potential issues,
 and provide constructive hints or suggestions to help understand and fix the problem, 
 without revealing the full solution.
 
----
+
 
 Design Reasoning
 
@@ -65,7 +64,6 @@ How it encourages student-friendly feedback:
 ⦁	Promotes learning by encouraging the student to reason through the problem.
 ⦁	Avoids dependency on AI for direct solutions, fostering problem-solving skills.
 
----
 
  Reasoning
  1.  What tone and style should the AI use?
@@ -89,11 +87,16 @@ Advanced:
 - Ask deeper questions (e.g., “Is this scalable?” or “What happens with edge input?”).
 - Focus on logic, optimization, and clean coding patterns.
 
----
+
 Setup Instructions
 ⦁	Open the AI tool (e.g., ChatGPT, OpenAI Playground, or another AI assistant).
+
 ⦁	Copy the prompt exactly as written in the “Prompt” section.
+
 ⦁	Replace with your Python code snippet that you want to debug.
+
 ⦁	Submit the prompt to the AI.
+
 ⦁	Read the AI’s feedback, which should contain hints, guiding questions, and areas to check without revealing the full solution.
+
 ⦁	Use the feedback to identify and fix the issue in your code on your own.
