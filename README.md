@@ -26,10 +26,10 @@ Follow these instructions carefully:
 
 Response Structure
 
-- ** What the code is trying to do** (a short summary)  
-- ** What might be wrong** (highlight issues without solving them)  
-- ** Helpful hint or question** (to nudge the student in the right direction)  
-- ** Encouragement** (motivate them to try again or review a concept)
+- " What the code is trying to do" (a short summary)  
+- " What might be wrong" (highlight issues without solving them)  
+- " Helpful hint or question" (to nudge the student in the right direction)  
+- " Encouragement"(motivate them to try again or review a concept)
 
 
 Prompt example:
