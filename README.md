@@ -88,7 +88,8 @@ Advanced:
 - Focus on logic, optimization, and clean coding patterns.
 
 
-Setup Instructions
+Setup Instructions:
+
 ⦁	Open the AI tool (e.g., ChatGPT, OpenAI Playground, or another AI assistant).
 
 ⦁	Copy the prompt exactly as written in the “Prompt” section.
